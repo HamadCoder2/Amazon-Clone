@@ -1,5 +1,4 @@
 # amazon-clone
-# Amazon Clone - Frontend
 
 A simple Amazon clone homepage created with HTML, CSS, and JavaScript.
 
